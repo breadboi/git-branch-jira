@@ -34,11 +34,16 @@ This browser extension allows you to integrate Jira and GitHub by providing a co
 
 1. Open a Jira issue in your browser.
 
-2. You will see a "Git Branch" button added to the issue page. Click this button to copy the Git branch name to your clipboard.
+2. You will see a "Git Branch" button added to the issue page. <br />
+![Git Branch Button](./images/examples/GitBranchButton.PNG)
 
-3. To search for corresponding pull requests on GitHub, click the "View on GitHub" button.
+3. Click the "Git Branch" button to view the menu. <br />
+![Git Branch Button](./images/examples/GitMenu.PNG)
 
-4. If you want to hide the menu, simply click anywhere else on the page.
+3. Click either branch menu buttons to copy the Git branch name to your clipboard. <br />
+![Git Copied](./images/examples/GitCopied.PNG)
+
+4. To search for corresponding pull requests on GitHub, click the "View on GitHub" button.
 
 ## Customization
 
